@@ -1,12 +1,13 @@
 <p align="center">
 	
 <img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
-<a href="https://www.instagram.com/p/CFW1q39jomV/"> Preview @jpntobot Video </a>
+<a href="https://www.instagram.com/p/CFW1q39jomV/"> Preview @jpnbookBot Video </a>
+<a href="https://t.me/jpnbookBot"> Demo Bot @jpnbookBot </a>
 
 </p>
 
 ### 🤔 Repository apa ini?
-Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"> Michael Act </a>. **JapanToBook adalah repository kode dari bot telegram @jpntobot, memberikan layanan menulis karakter bahasa jepang di buku kotak-kotak.**
+Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"> Michael Act </a>. **JapanToBook adalah repository kode dari bot telegram @jpnbookBot, memberikan layanan menulis karakter bahasa jepang di buku kotak-kotak.**
 
 ### 🤖 Bantuan library & font
 - Pillow 7.1.2
