@@ -6,7 +6,7 @@
 </p>
 
 ### 🤔 Repository apa ini?
-Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"> Michael Act </a>. ****
+Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"> Michael Act </a>. **JapanToBook adalah repository kode dari bot telegram @jpntobot, memberikan layanan menulis karakter bahasa jepang di buku kotak-kotak.**
 
 ### 🤖 Bantuan library & font
 - Pillow 7.1.2
@@ -23,10 +23,10 @@ Repository ini dibuat dan dikelola oleh <a href="https://github.com/michael-act"
 
 ## 💻 Install & Penggunaan
 
-1. **Download / Clone Repository** ```https://github.com/michael-act/What-slytic-App ```
+1. **Download / Clone Repository** ```git clone https://github.com/michael-act/JapanToBook/```
 2. **Install Python3 Module** ```pip3 install -r requirements.txt ```
-3. **Taruh nama file teks whatsapp txt yang telah di export ke TXT** ```Contoh: "C:\Users\ZypZ\Desktop\Chatnya breeeee 12345.txt"```
-4. **Jalankan File Telegram Bot.py** ```python3 app.py ```
+3. **Ganti token pada variabel TOKEN dengan token bot telegram kalian** ```Path: JapanToBook/write_box/settings.py```
+4. **Jalankan File Telegram Bot.py** ```python3 JapanToBook/main.py ```
 
 ## 🧑 Author
 
